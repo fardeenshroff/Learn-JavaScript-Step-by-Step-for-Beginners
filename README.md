@@ -28,8 +28,6 @@ This chapter introduces JavaScript, its history, and its role in modern web deve
 - [Brief History and Evolution of JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 - [How JavaScript Works in Browsers](https://javascript.info/how-js-works)
 
-### Downloads
-[Download Chapter 1: Introduction to JavaScript](#)
 
 ### Exercise:
 Write a basic JavaScript program that logs "Hello, World!" to the console. [Example](https://www.w3schools.com/js/js_output.asp)
@@ -46,8 +44,6 @@ Before writing JavaScript code, you need to set up a development environment. Th
 - [Using Browsers and Developer Tools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
 - [Setting Up Node.js](https://nodejs.org/)
 
-### Downloads
-[Download Chapter 2: Setting Up Your Environment](#)
 
 ### Environment Setup Instructions:
 - **Code Editor:** Install [VS Code](https://code.visualstudio.com/).
@@ -70,8 +66,6 @@ This chapter focuses on fundamental JavaScript concepts such as variables, data 
 - [Operators (Arithmetic, Logical, Comparison)](https://www.javatpoint.com/javascript-operators)
 - [Control Flow (if, else, switch, loops)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
 
-### Downloads
-[Download Chapter 3: JavaScript Basics](#)
 
 ### Exercise:
 Write a program to find the largest number among three user-provided inputs. [Example](https://www.javatpoint.com/javascript-examples)
@@ -89,8 +83,6 @@ Learn how to interact with HTML and CSS using JavaScript to build dynamic and in
 - [Event Handling (click, hover, keypress)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
 - [Adding and Removing Elements](https://developer.mozilla.org/en-US/docs/Web/API/Node/removeChild)
 
-### Downloads
-[Download Chapter 4: DOM Manipulation](#)
 
 ### Exercise:
 Create a web page with a button that changes the page's background color when clicked. [Example](https://www.javatpoint.com/dom-manipulation)
@@ -108,8 +100,6 @@ Explore modern JavaScript features introduced in ES6 and later versions, includi
 - [Destructuring and Spread Operators](https://javascript.info/destructuring-assignment)
 - [Modules (import/export)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 
-### Downloads
-[Download Chapter 5: ES6 and Beyond](#)
 
 ### Exercise:
 Convert a traditional JavaScript function to an arrow function. [Example](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
@@ -127,8 +117,6 @@ This chapter covers how to handle asynchronous operations in JavaScript using ca
 - [Working with Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - [Async/Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
 
-### Downloads
-[Download Chapter 6: Asynchronous JavaScript](#)
 
 ### Exercise:
 Create a program that fetches and displays data from a public API using async/await. [Example](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)
@@ -146,8 +134,6 @@ Learn how to interact with Web APIs to add functionalities such as geolocation, 
 - [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
 - [LocalStorage and SessionStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 
-### Downloads
-[Download Chapter 7: Web APIs](#)
 
 ### Exercise:
 Build a weather application using the Fetch API and a public weather API.
@@ -165,8 +151,6 @@ Dive into popular JavaScript frameworks and libraries, including React, Angular,
 - [Getting Started with Vue.js](https://vuejs.org/)
 - [Utility Libraries (Lodash, Moment.js)](https://lodash.com/)
 
-### Downloads
-[Download Chapter 8: JavaScript Frameworks and Libraries](#)
 
 ### Exercise:
 Build a to-do app using React or Vue.js. [Example](https://react.dev/learn/tutorial-tic-tac-toe)
@@ -184,8 +168,6 @@ Learn how to test and debug JavaScript applications to ensure reliability and pe
 - [Console Methods and Breakpoints](https://javascript.info/debugging-chrome)
 - [Error Handling and Logging](https://www.tutorialspoint.com/error-handling-in-javascript)
 
-### Downloads
-[Download Chapter 9: Testing and Debugging](#)
 
 ### Exercise:
 Write unit tests for a JavaScript function using Jest.
@@ -203,8 +185,6 @@ Understand how to use modern build tools like Webpack and Parcel and deploy Java
 - [Using npm and Yarn](https://www.npmjs.com/)
 - [Deploying Apps on Vercel or Netlify](https://vercel.com/)
 
-### Downloads
-[Download Chapter 10: Build Tools and Deployment](#)
 
 ### Exercise:
 Bundle a JavaScript project using Webpack and deploy it to Netlify. [Example](https://webpack.js.org/guides/getting-started/)
@@ -222,3 +202,16 @@ This repository is licensed under the [MIT License](LICENSE). See the LICENSE fi
 ---
 
 Happy Coding! 🚀
+
+---
+
+## Disclaimer
+
+The programming languages, resources, downloads, and links provided in this repository are the property of their respective owners, creators, and contributors. This repository is intended solely for educational purposes to help learners gain an understanding of each language, how to download and install the required tools, and how to start programming effectively.
+
+The content shared is purely for learning and informational purposes and is not intended to infringe on any copyrights or intellectual property rights. If you are the rightful owner of any resource or content and wish to have it removed, please contact me directly, and I will promptly take the necessary actions to comply with your request.
+
+All credit for the resources, libraries, and tools mentioned in this repository belongs to their respective authors.
+
+
+---
